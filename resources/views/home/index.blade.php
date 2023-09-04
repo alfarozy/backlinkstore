@@ -52,7 +52,8 @@
                     <div class="counter-box text-center">
                         <img src="/backlinkstore/assets/images/illustrator/Asset189.svg" class="avatar avatar-small"
                             alt="">
-                        <h2 class="mb-0 mt-4"><span class="counter-value" data-target="9">{{ $member }}</span></h2>
+                        <h2 class="mb-0 mt-4"><span class="counter-value"
+                                data-target="{{ $member }}">{{ $member }}</span></h2>
                         <h6 class="counter-head text-muted">Pengguna</h6>
                     </div><!--end counter box-->
                 </div>
@@ -85,17 +86,74 @@
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
                                         class="uil uil-check-circle align-middle"></i></span>Meningkatkan Peringkat SEO</li>
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Peningkatan Lalu Lintas Organik
+                            </li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Meningkatkan Otoritas</li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Peningkatan Pengenalan Merek
+                            </li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Dukungan untuk Konten
+                                Berkualitas</li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
                                         class="uil uil-check-circle align-middle"></i></span>Peningkatan Indeksasi Mesin
                                 Pencari</li>
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
-                                        class="uil uil-check-circle align-middle"></i></span>Create your own skin to
-                                match your brand</li>
+                                        class="uil uil-check-circle align-middle"></i></span>Dampak Positif pada Konversi
+                            </li>
                         </ul>
                     </div>
                 </div><!--end col-->
             </div><!--end row-->
+
         </div><!--end container-->
 
+        <div class="container mt-100 mt-60">
+            <div class="row align-items-center">
+
+
+                <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
+                    <div class="section-title">
+                        <h4 class="title mb-4">SEO (Search Engine Optimization)</h4>
+                        <p class="text-muted">
+                            rangkaian teknik dan strategi yang digunakan untuk meningkatkan peringkat dan visibilitas suatu
+                            situs web dalam hasil pencarian mesin pencari seperti Google. Tujuan SEO adalah membuat situs
+                            web lebih mudah ditemukan oleh pengguna yang mencari informasi atau produk tertentu, dengan
+                            mengoptimalkan konten, struktur situs, kata kunci, dan faktor-faktor lain yang memengaruhi
+                            peringkat di mesin pencari. SEO adalah praktik penting dalam pemasaran online dan membantu
+                            meningkatkan lalu lintas organik, pengenalan merek, dan konversi pengunjung menjadi pelanggan
+                            atau pembaca.
+                        </p>
+                        <ul class="list-unstyled text-muted">
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Optimalkan Konten</li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Riset Kata Kunci</li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Optimalkan On-Page SEO</li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Meningkatkan Kecepatan Situs
+                            </li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Optimalkan Responsif</li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Bangun Backlink Berkualitas
+                            </li>
+                            <li class="mb-1"><span class="text-primary h5 me-2"><i
+                                        class="uil uil-check-circle align-middle"></i></span>Analisis dan Pemantauan
+                                Terus-Menerus</li>
+                        </ul>
+                    </div>
+                </div><!--end col-->
+                <div class="col-md-6">
+                    <div class="me-lg-5 ml-3">
+                        <img src="/backlinkstore/assets/images/illustrator/big-launch.svg" class="img-fluid"
+                            alt="">
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container-->
 
         <!-- End -->
     </section>
@@ -136,5 +194,111 @@
 
     </section><!--end section-->
     <!--end Price-->
+
+    <!-- Feature Start -->
+    <section class="section">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-12 text-center">
+                    <div class="section-title mb-4 pb-2">
+                        <h4 class="title mb-4">Keunggulan Berlanganan Di BacklinkGratisan.com</h4>
+
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+
+            <div class="row">
+                <div class="col-md-4 col-12 mt-5 pt-4">
+                    <div class="features feature-primary">
+                        <div class="image position-relative d-inline-block">
+                            <i class="uil uil-edit-alt h2 text-primary"></i>
+                        </div>
+
+                        <div class="content mt-4">
+                            <h5>Garansi Pembayaran</h5>
+                            <p class="text-muted mb-0">Kami dari Backlinkgratisan.com memberikan pelayanan untuk menjual
+                                backlink untum para bloger di seluruh indonesia, jika backlink tidak di kerjakan dan
+                                backlink di hapus tidak melanggar kebijakan dan privasi maka uang akan kami kembalikan utuh
+                                100%.</p>
+                        </div>
+                    </div>
+                </div><!--end col-->
+
+                <div class="col-md-4 col-12 mt-5 pt-4">
+                    <div class="features feature-primary">
+                        <div class="image position-relative d-inline-block">
+                            <i class="uil uil-vector-square h2 text-primary"></i>
+                        </div>
+
+                        <div class="content mt-4">
+                            <h5>Promosi Gratis</h5>
+                            <p class="text-muted mb-0">BacklinkGratiisan.com adalah platform yang menyediakan backlink
+                                gratis berkualitas tinggi. Dengan berlangganan, Anda akan mendapatkan list list backlink
+                                terbaik dengan informasi jenis backlink serta domain rating web tersebut.</p>
+                        </div>
+                    </div>
+                </div><!--end col-->
+
+                <div class="col-md-4 col-12 mt-5 pt-4">
+                    <div class="features feature-primary">
+                        <div class="image position-relative d-inline-block">
+                            <i class="uil uil-file-search-alt h2 text-primary"></i>
+                        </div>
+
+                        <div class="content mt-4">
+                            <h5>Tingkatkan Trafik</h5>
+                            <p class="text-muted mb-0">Backlink berkualitas tinggi dapat meningkatkan jumlah kunjungan ke
+                                situs web Anda. Dengan berlangganan, Anda dapat mengalami lonjakan trafik yang signifikan,
+                                yang berpotensi menghasilkan lebih banyak pelanggan atau pembaca.</p>
+                        </div>
+                    </div>
+                </div><!--end col-->
+
+                <div class="col-md-4 col-12 mt-5 pt-4">
+                    <div class="features feature-primary">
+                        <div class="image position-relative d-inline-block">
+                            <i class="uil uil-airplay h2 text-primary"></i>
+                        </div>
+
+                        <div class="content mt-4">
+                            <h5>Jaminan Hasil</h5>
+                            <p class="text-muted mb-0">BacklinkGratiisan.com memiliki jaminan hasil, yang berarti mereka
+                                berkomitmen untuk membantu Anda mencapai hasil yang Anda inginkan dalam hal SEO dan lalu
+                                lintas situs web.</p>
+                        </div>
+                    </div>
+                </div><!--end col-->
+
+                <div class="col-md-4 col-12 mt-5 pt-4">
+                    <div class="features feature-primary">
+                        <div class="image position-relative d-inline-block">
+                            <i class="uil uil-diamond h2 text-primary"></i>
+                        </div>
+
+                        <div class="content mt-4">
+                            <h5>Member Premiun</h5>
+                            <p class="text-muted mb-0">Kami akan menyediakan List website di seluruh dunia , yang akan kami
+                                update terus setiap hari, dapatkan ribuan jenis banklink sesuai dengan kategori terbaik.</p>
+                        </div>
+                    </div>
+                </div><!--end col-->
+
+                <div class="col-md-4 col-12 mt-5 pt-4">
+                    <div class="features feature-primary">
+                        <div class="image position-relative d-inline-block">
+                            <i class="uil uil-clock h2 text-primary"></i>
+                        </div>
+
+                        <div class="content mt-4">
+                            <h5>Dukungan Pelanggan 24/7</h5>
+                            <p class="text-muted mb-0">Tim BacklinkGratiisan.com selalu siap membantu Anda dengan
+                                pertanyaan atau masalah apa pun yang mungkin Anda miliki sepanjang waktu.</p>
+                        </div>
+                    </div>
+                </div><!--end col-->
+            </div><!--end row-->
+        </div><!--end container-->
+    </section><!--end section-->
+    <!-- End feature -->
 
 @endsection
