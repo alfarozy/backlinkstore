@@ -61,7 +61,8 @@
                     <div class="counter-box text-center">
                         <img src="/backlinkstore/assets/images/illustrator/Asset186.svg" class="avatar avatar-small"
                             alt="">
-                        <h2 class="mb-0 mt-4"><span class="counter-value" data-target="1536">1536</span>$</h2>
+                        <h2 class="mb-0 mt-4"><span class="counter-value"
+                                data-target="{{ $submitBacklink }}">{{ $submitBacklink }}</span></h2>
                         <h6 class="counter-head text-muted">Submit backlink</h6>
                     </div><!--end counter box-->
                 </div>
@@ -76,18 +77,16 @@
 
                 <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="section-title ms-lg-5">
-                        <h4 class="title mb-4">A better compose with landrick marketing</h4>
-                        <p class="text-muted">You can combine all the Landrick templates into a single one, you can
-                            take
-                            a component from the Application theme and use it in the Website.</p>
+                        <h4 class="title mb-4">Backlinkgratisan.com</h4>
+                        <p class="text-muted">Merupakan seubuah website yang menyediakan link website gratisan dari seluruh
+                            dunia, di kumpulkan kedalam 1 data base sehingga memudahkan para bolgger dan pelaku umkm untuk
+                            meningkatkan branding produk atau websitenya. </p>
                         <ul class="list-unstyled mb-0 text-muted">
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
-                                        class="uil uil-check-circle align-middle"></i></span>Digital Marketing
-                                Solutions
-                                for Tomorrow</li>
+                                        class="uil uil-check-circle align-middle"></i></span>Meningkatkan Peringkat SEO</li>
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
-                                        class="uil uil-check-circle align-middle"></i></span>Our Talented & Experienced
-                                Marketing Agency</li>
+                                        class="uil uil-check-circle align-middle"></i></span>Peningkatan Indeksasi Mesin
+                                Pencari</li>
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
                                         class="uil uil-check-circle align-middle"></i></span>Create your own skin to
                                 match your brand</li>
