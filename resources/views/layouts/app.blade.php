@@ -166,27 +166,11 @@
                                 </ul>
                             </div><!--end col-->
 
-                            <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0">
+                            <div class="col-lg-3 col-md-4 col-12 mt-4 mt-sm-0 pt-2 pt-sm-0 text-center">
                                 <h5 class="footer-head">Metode pembayaran</h5>
-                                <ul class="list-unstyled text-sm-center mb-0 mt-3">
-                                    <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                                src="/backlinkstore/assets/images/payments/american-ex.png"
-                                                class="avatar avatar-ex-sm" title="American Express"
-                                                alt=""></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                                src="/backlinkstore/assets/images/payments/discover.png"
-                                                class="avatar avatar-ex-sm" title="Discover" alt=""></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                                src="/backlinkstore/assets/images/payments/master-card.png"
-                                                class="avatar avatar-ex-sm" title="Master Card" alt=""></a>
-                                    </li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                                src="/backlinkstore/assets/images/payments/paypal.png"
-                                                class="avatar avatar-ex-sm" title="Paypal" alt=""></a></li>
-                                    <li class="list-inline-item"><a href="javascript:void(0)"><img
-                                                src="/backlinkstore/assets/images/payments/visa.png"
-                                                class="avatar avatar-ex-sm" title="Visa" alt=""></a></li>
-                                </ul>
+                                <img class="col-6" src="/backlinkstore/assets/images/bca.png" alt=""
+                                    srcset="">
+                                <h6 class="mt-2">A.n Jon Efendi <br> No Rek: 8455854268</h6>
                             </div><!--end col-->
                         </div><!--end row-->
                     </div>
