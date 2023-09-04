@@ -11,7 +11,7 @@
                         <span class="badge rounded-pill bg-soft-primary">#1 backlink gratisan</span>
                         <h4 class="heading mb-3 mt-2"> Backlink gratisan pertama di indonesia </h4>
                         <p class="text-muted mb-0 para-dark para-desc mx-auto ms-md-auto">
-                            Kami menyediakan backlink berkualitas premium, dijamin website anda bisa page 1 google
+                            Kami menyediakan lisit backlink berkualitan dan premium dijamin website anda bisa page 1 google
                         </p>
 
                         <div class="mt-4">
