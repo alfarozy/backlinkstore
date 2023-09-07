@@ -185,7 +185,8 @@
                                 <div class="text-muted mb-0 ps-0">
                                     {{ $item->description }}
                                 </div>
-                                <a href="#" class="btn btn-primary mt-4"> Pesan sekarang</a>
+                                <a href="https://api.whatsapp.com/send?phone=6281324568335&text=Halo%20admin%20saya%20mau%20pesan%20paket%20berikut%0A%0A*{{ $item->title }}*%0AHarga%20%20%3A%20{{ currencyIDR($item->price) }}"
+                                    class="btn btn-primary mt-4"> Pesan sekarang</a>
                             </div>
                         </div>
                     </div><!--end col-->
