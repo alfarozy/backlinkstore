@@ -122,7 +122,7 @@
                             rangkaian teknik dan strategi yang digunakan untuk meningkatkan peringkat dan visibilitas suatu
                             situs web dalam hasil pencarian mesin pencari seperti Google. Tujuan SEO adalah membuat situs
                             web lebih mudah ditemukan oleh pengguna yang mencari informasi atau produk tertentu, dengan
-                            mengoptimalkan konten, struktur situs, kata kunci, dan faktor-faktor lain yang memengaruhi
+                            mengoptimalkan konten, struktur situs, kata kunci, dan faktor-faktor lain yang mempengaruhi
                             peringkat di mesin pencari. SEO adalah praktik penting dalam pemasaran online dan membantu
                             meningkatkan lalu lintas organik, pengenalan merek, dan konversi pengunjung menjadi pelanggan
                             atau pembaca.
@@ -220,7 +220,7 @@
                         <div class="content mt-4">
                             <h5>Garansi Pembayaran</h5>
                             <p class="text-muted mb-0">Kami dari Backlinkgratisan.com memberikan pelayanan untuk menjual
-                                backlink untum para bloger di seluruh indonesia, jika backlink tidak di kerjakan dan
+                                backlink untuk para bloger di seluruh indonesia, jika backlink tidak di kerjakan dan
                                 backlink di hapus tidak melanggar kebijakan dan privasi maka uang akan kami kembalikan utuh
                                 100%.</p>
                         </div>
