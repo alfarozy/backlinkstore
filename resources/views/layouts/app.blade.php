@@ -243,6 +243,18 @@
     <!-- Back to top -->
 
     <!-- Javascript -->
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-SK3G48QGZK"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
+        gtag('js', new Date());
+
+        gtag('config', 'G-SK3G48QGZK');
+    </script>
     <!-- JAVASCRIPT -->
     <script src="/backlinkstore/assets/libs/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- SLIDER -->
