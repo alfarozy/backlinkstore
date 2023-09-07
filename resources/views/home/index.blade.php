@@ -78,10 +78,12 @@
 
                 <div class="col-lg-7 col-md-6 mt-4 mt-sm-0 pt-2 pt-sm-0">
                     <div class="section-title ms-lg-5">
-                        <h4 class="title mb-4">Backlinkgratisan.com</h4>
-                        <p class="text-muted">Merupakan seubuah website yang menyediakan link website gratisan dari seluruh
-                            dunia, di kumpulkan kedalam 1 data base sehingga memudahkan para bolgger dan pelaku umkm untuk
-                            meningkatkan branding produk atau websitenya. </p>
+                        <h4 class="title mb-4">Apa itu backlink ?</h4>
+                        <p class="text-muted">Backlink adalah link yang menghubungkan satu halaman web ke halaman web
+                            lainnya. Berfungsi sebagai "vote" atau rekomendasi dari satu situs web ke situs web lainnya.
+                            Backlink dapat memengaruhi peringkat situs web dalam hasil pencarian mesin pencari, dengan
+                            backlink berkualitas tinggi dari situs otoritatif biasanya memberikan dampak positif pada
+                            peringkat. 7 manfaat backlink : </p>
                         <ul class="list-unstyled mb-0 text-muted">
                             <li class="mb-1"><span class="text-primary h5 me-2"><i
                                         class="uil uil-check-circle align-middle"></i></span>Meningkatkan Peringkat SEO</li>
