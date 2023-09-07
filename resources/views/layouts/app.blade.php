@@ -11,6 +11,7 @@
             content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google .">
         <meta name="keywords"
             content="backlink, backlink gratis, ahref backlink, backlink berkualitas, backlink dofollow gratis, tool backlink, 40000 backlink gratis, backlink web 2.0, SEO, optimasi mesin pencari">
+        <meta name="google-site-verification" content="09DXvWpEtJCk2TFREC22OPitwPOTPC62T2S5KXP0V1I" />
         <meta name="robots" content="index,follow" />
         <meta name="author" content="backlinkgratisan.com">
         <link rel="canonical" href="https://backlinkgratisan.com/" />
