@@ -64,7 +64,7 @@
                             alt="">
                         <h2 class="mb-0 mt-4"><span class="counter-value"
                                 data-target="{{ $submitBacklink }}">{{ $submitBacklink }}</span></h2>
-                        <h6 class="counter-head text-muted">Submit backlink</h6>
+                        <h6 class="counter-head text-muted">Pesanan selesai</h6>
                     </div><!--end counter box-->
                 </div>
 
@@ -113,8 +113,6 @@
 
         <div class="container mt-100 mt-60">
             <div class="row align-items-center">
-
-
                 <div class="col-md-6 mt-4 pt-2 mt-sm-0 pt-sm-0">
                     <div class="section-title">
                         <h4 class="title mb-4">SEO (Search Engine Optimization)</h4>
