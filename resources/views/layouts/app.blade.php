@@ -3,69 +3,50 @@
 
 <head>
     <meta charset="utf-8" />
-    < <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Backlink Gratisan - Dapatkan Backlink Gratis untuk Website Anda 1 Juta Backlink Pada Data Base Kami
-        </title>
-        <meta name="description"
-            content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google .">
-        <meta name="keywords"
-            content="backlink, backlink gratis, ahref backlink, backlink berkualitas, backlink dofollow gratis, tool backlink, 40000 backlink gratis, backlink web 2.0, SEO, optimasi mesin pencari">
-        <meta name="google-site-verification" content="09DXvWpEtJCk2TFREC22OPitwPOTPC62T2S5KXP0V1I" />
-        <meta name="robots" content="index,follow" />
-        <meta name="author" content="backlinkgratisan.com">
-        <link rel="canonical" href="https://backlinkgratisan.com/" />
-        <link rel="icon" href="favicon.ico" type="#">
-        <meta property="og:locale" content="id_ID" />
-        <meta property="og:type" content="website" />
-        <meta property="og:title"
-            content="Backlink Gratisan - Dapatkan Backlink Gratis untuk Website Anda 1 Juta Backlink Pada Data Base Kami">
-        <meta property="og:description"
-            content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google.">
-        <meta property="og:image" content="URL_GAMBAR_THUMBNAIL">
-        <meta property="og:url" content="https://www.backlinkgratisan.com/">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Backlink Gratisan - Dapatkan Backlink Gratis untuk Website Anda 1 Juta Backlink Pada Data Base Kami
+    </title>
+    <meta name="description"
+        content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google .">
+    <meta name="keywords"
+        content="backlink, backlink gratis, ahref backlink, backlink berkualitas, backlink dofollow gratis, tool backlink, 40000 backlink gratis, backlink web 2.0, SEO, optimasi mesin pencari">
+    <meta name="google-site-verification" content="09DXvWpEtJCk2TFREC22OPitwPOTPC62T2S5KXP0V1I" />
+    <meta name="robots" content="index,follow" />
+    <meta name="author" content="backlinkgratisan.com">
+    <link rel="canonical" href="https://backlinkgratisan.com/" />
+    <link rel="icon" href="favicon.ico" type="#">
+    <meta property="og:locale" content="id_ID" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title"
+        content="Backlink Gratisan - Dapatkan Backlink Gratis untuk Website Anda 1 Juta Backlink Pada Data Base Kami">
+    <meta property="og:description"
+        content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google.">
+    <meta property="og:image" content="URL_GAMBAR_THUMBNAIL">
+    <meta property="og:url" content="https://www.backlinkgratisan.com/">
 
-        <!-- Metatag Twitter Card -->
-        <meta name="twitter:card" content="summary_large_image">
-        <meta name="twitter:title"
-            content="Backlink Gratisan - Dapatkan Backlink Gratis untuk Website Anda 1 Juta Backlink Pada Data Base Kami">
-        <meta name="twitter:description"
-            content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google.">
-        <meta name="twitter:image" content="URL_GAMBAR_THUMBNAIL">
+    <!-- Metatag Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title"
+        content="Backlink Gratisan - Dapatkan Backlink Gratis untuk Website Anda 1 Juta Backlink Pada Data Base Kami">
+    <meta name="twitter:description"
+        content="Backlinkgratisan.com - Dapatkan backlink berkualitas secara gratis untuk meningkatkan peringkat SEO website Anda dijamin bisa page 1 google.">
+    <meta name="twitter:image" content="URL_GAMBAR_THUMBNAIL">
 
-        <!-- favicon -->
-        {{-- <link rel="shortcut icon" href="/backlinkstore/assets/images/favicon.ico" /> --}}
+    <!-- favicon -->
+    {{-- <link rel="shortcut icon" href="/backlinkstore/assets/images/favicon.ico" /> --}}
 
-        <!-- Css -->
-        <link href="/backlinkstore/assets/libs/tiny-slider/tiny-slider.css" rel="stylesheet">
-        <!-- Bootstrap Css -->
-        <link href="/backlinkstore/assets/css/bootstrap.min.css" id="bootstrap-style" class="theme-opt" rel="stylesheet"
-            type="text/css" />
-        <!-- Icons Css -->
-        <link href="/backlinkstore/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
-        <link href="/backlinkstore/assets/libs/@iconscout/unicons/css/line.css" type="text/css" rel="stylesheet" />
-        <!-- Style Css-->
-        <link href="/backlinkstore/assets/css/style.min.css" id="color-opt" class="theme-opt" rel="stylesheet"
-            type="text/css" />
-        <!-- Google Analytics -->
-        <script>
-            (function(i, s, o, g, r, a, m) {
-                i['GoogleAnalyticsObject'] = r;
-                i[r] = i[r] || function() {
-                    (i[r].q = i[r].q || []).push(arguments)
-                }, i[r].l = 1 * new Date();
-                a = s.createElement(o),
-                    m = s.getElementsByTagName(o)[0];
-                a.async = 1;
-                a.src = g;
-                m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
-
-            ga('create', 'G-SK3G48QGZK', 'auto');
-            ga('send', 'pageview');
-        </script>
-        <!-- End Google Analytics -->
-
+    <!-- Css -->
+    <link href="/backlinkstore/assets/libs/tiny-slider/tiny-slider.css" rel="stylesheet">
+    <!-- Bootstrap Css -->
+    <link href="/backlinkstore/assets/css/bootstrap.min.css" id="bootstrap-style" class="theme-opt" rel="stylesheet"
+        type="text/css" />
+    <!-- Icons Css -->
+    <link href="/backlinkstore/assets/css/icons.min.css" rel="stylesheet" type="text/css" />
+    <link href="/backlinkstore/assets/libs/@iconscout/unicons/css/line.css" type="text/css" rel="stylesheet" />
+    <!-- Style Css-->
+    <link href="/backlinkstore/assets/css/style.min.css" id="color-opt" class="theme-opt" rel="stylesheet"
+        type="text/css" />
 </head>
 
 <body>
